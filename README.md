@@ -1,4 +1,4 @@
-# TELECOM_IDENTIFYING_INEFFECTIVE_OPERATORS
+# TELECOM IDENTIFYING INEFFECTIVE OPERATORS
 
 <ul>
 <li> Worked on 53,902 rows with around 8,172 missing, null & invalid values. Performed data cleaning on it.</li>
